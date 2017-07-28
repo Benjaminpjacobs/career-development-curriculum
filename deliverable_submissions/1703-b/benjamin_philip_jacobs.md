@@ -4,11 +4,11 @@ Students should clone their individual file and update them with links to specif
 
 ## Mod 3 Deliverables:
 
-* [Link to resume](https://resume.creddle.io/resume/ap27jzm1wid): 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:[Benjamin Jacobs' Portfolio](https://www.turing.io/alumni/ben-jacobs)
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* [Resume](https://resume.creddle.io/resume/ap27jzm1wid): 
+* [Portfolio](https://www.turing.io/alumni/ben-jacobs)
+* [Flower Exerciser](https://gist.github.com/Benjaminpjacobs/97d864f29f018e573250063a1d8aba50) 
+* [Trello Board](https://trello.com/b/BBaPWNvR/turing-job-search)
+* [Mod 4 Action Plan](https://gist.github.com/Benjaminpjacobs/c97491900964bcf85c78530676f1a237):
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
